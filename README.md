@@ -20,7 +20,7 @@
   <p align="center">
     Quartz framework has been developed for use in cluster mode, in order to run simultaneously several instances of Quartz, so that they can share jobs and also replace each other in case of failure. This repo show how to use those features and give some tips for it.
     <br />
-    <a href="http://www.quartz-scheduler.org/documentation/"><strong>Explore the Quartz docs »</strong></a>
+    <a href="http://www.quartz-scheduler.org/documentation/"><strong>Explore the Quartz docs</strong></a>
     <br />
     <br />
     <a href="https://github.com/AntoineMeheut/QuartzClusterMode/issues">Report Bug</a>
