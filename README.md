@@ -35,12 +35,12 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  * [Objectives of this guide](#Objectives of this guide)
-  * [Quartz JDBCStore Cluster Mode Overview](#Quartz JDBCStore Cluster Mode Overview)
-  * [Create the technical tables in your database](#Create the technical tables in your database)
-  * [Configure the application.properties file](#Configure the application.properties file)
-  * [Check the functioning in mono and bi-cluster](#Check the functioning in mono and bi-cluster)
-  * [Examples for SQL tables and application properties](#Examples for SQL tables and application properties)
+  * [Objectives of this guide](#Objectives-of-this-guide)
+  * [Quartz JDBCStore Cluster Mode Overview](#Quartz-JDBCStore-Cluster-Mode-Overview)
+  * [Create the technical tables in your database](#Create-the-technical-tables-in-your-database)
+  * [Configure the application.properties file](#Configure-the-application.properties-file)
+  * [Check the functioning in mono and bi-cluster](#Check-the-functioning-in-mono-and-bi-cluster)
+  * [Examples for SQL tables and application properties](#Examples-for-SQL-tables-and-application-properties)
 * [Getting Started](#getting-started)
   * [Installation](#installation)
 * [Usage](#usage)
