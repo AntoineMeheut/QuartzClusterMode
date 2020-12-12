@@ -4,9 +4,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![GNU License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -29,8 +26,6 @@
   </p>
 </p>
 
-
-
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
@@ -49,8 +44,6 @@
 * [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -152,7 +145,7 @@ Distributed under the GNU General Public License v3.0 License. See `LICENSE` for
 <!-- CONTACT -->
 ## Contact
 
-Antoine Méheut - [@Linkedin_antoine-meheut](https://www.linkedin.com/in/antoine-meheut)
+If you want to contact me [just clic](mailto:github.contacts@protonmail.com)
 
 Project Link: [https://github.com/AntoineMeheut/QuartzClusterMode](https://github.com/AntoineMeheut/QuartzClusterMode)
 
@@ -175,5 +168,3 @@ This sample was created in a project using Quartz Enterprise Job Scheduler.
 [issues-url]: https://github.com/AntoineMeheut/QuartzClusterMode/issues
 [license-shield]: https://img.shields.io/github/license/AntoineMeheut/QuartzClusterMode
 [license-url]: https://github.com/AntoineMeheut/QuartzClusterMode/blob/master/LICENSE
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/antoine-meheut
